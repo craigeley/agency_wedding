@@ -1,0 +1,3 @@
+Liz has loved books for pretty much her entire life, and now she works on writing and editing them. She's currently an editor at the Wisconsin Historical Society Press, and she is also a regular contributor to [Covered w/ Fur](http://www.astrangeobject.com/cwf/).
+
+Craig's research and work is about sound and technology. He's currently a digital producer at To the Best of Our Knowledge, a weekly radio show, and a coordinator of the [UW-Madison Sound Studies research group](http://humanities.wisc.edu/research/borghesi-mellon-workshops/sound-studies/).

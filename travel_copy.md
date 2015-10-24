@@ -10,6 +10,6 @@ The park is around a 4 hour drive from Canton, NY and Pittsburgh, and it's about
 
 The main hotel for the wedding is the [Country Inn & Suites in Mt. Morris, NY](http://www.countryinns.com/mt-morris-hotel-ny-14510/nymtmorr). We have reserved a block of rooms—ask for the Eley/Wyckoff wedding rate.
 
-We also have reserved the Allegiance Bed & Breakfast in Mt. Morris, NY](http://www.allegiancebandb.com/rooms.html). The entire B&B is set aside for wedding guests this weekend, but again, please ask for the Eley/Wyckoff rate.
+We also have reserved the [Allegiance Bed & Breakfast in Mt. Morris, NY](http://www.allegiancebandb.com/rooms.html). The entire B&B is set aside for wedding guests this weekend, but again, please ask for the Eley/Wyckoff rate.
 
 Finally, if you feel like roughing it, there are some rustic cabins and campsites available inside the park. [Click here](http://www.reserveamerica.com/campgroundDetails.do?contractCode=NY&parkId=375) for a list of sites and to make reservations.
