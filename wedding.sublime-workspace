@@ -12,82 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "wedding language.md",
-			"settings":
-			{
-				"buffer_size": 1430,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/about.html",
-			"settings":
-			{
-				"buffer_size": 2083,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/footer.html",
-			"settings":
-			{
-				"buffer_size": 1049,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/gallery.html",
-			"settings":
-			{
-				"buffer_size": 1436,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/head.html",
-			"settings":
-			{
-				"buffer_size": 1617,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/header.html",
-			"settings":
-			{
-				"buffer_size": 2379,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/js.html",
-			"settings":
-			{
-				"buffer_size": 980,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/timeline.html",
-			"settings":
-			{
-				"buffer_size": 538,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "_includes/travel.html",
 			"settings":
 			{
-				"buffer_size": 344,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_includes/wedding.html",
-			"settings":
-			{
-				"buffer_size": 2225,
+				"buffer_size": 2189,
 				"line_ending": "Unix"
 			}
 		}
@@ -122,8 +50,26 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/craigeley/Desktop/wedding/_includes",
+		"/Users/craigeley/Desktop/wedding/_includes/css"
+	],
 	"file_history":
 	[
+		"/Users/craigeley/Desktop/wedding/_includes/gallery.html",
+		"/Users/craigeley/Desktop/wedding/_includes/header.html",
+		"/Users/craigeley/Desktop/wedding/_includes/travel.html",
+		"/Users/craigeley/Desktop/wedding/_includes/timeline.html",
+		"/Users/craigeley/Desktop/wedding/_includes/js.html",
+		"/Users/craigeley/Desktop/wedding/_includes/about.html",
+		"/Users/craigeley/Desktop/wedding/_includes/css/agency.css",
+		"/Users/craigeley/Desktop/wedding/wedding language.md",
+		"/Users/craigeley/Desktop/wedding/couple_copy.md",
+		"/Users/craigeley/Desktop/wedding/_includes/footer.html",
+		"/Users/craigeley/Desktop/wedding/_includes/wedding.html",
+		"/Users/craigeley/Downloads/snazzy-maps-example-pale-dawn-style.html",
+		"/Users/craigeley/Desktop/wedding/_includes/head.html",
 		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/User/Critic.sublime-settings",
 		"/Users/craigeley/Dropbox/Apps/Day One/sync_github_issues.rb",
 		"/Users/craigeley/Dropbox/Apps/Day One/initial_sync.rb",
@@ -139,7 +85,6 @@
 		"/Users/craigeley/Documents/CustomSettings/everwatch.rb",
 		"/Users/craigeley/Desktop/ttbook/Zubrin Article.md",
 		"/Users/craigeley/Desktop/ttbook/Quart.md",
-		"/Users/craigeley/Desktop/wedding/wedding language.md",
 		"/Users/craigeley/Desktop/pending/Week 3.md",
 		"/Users/craigeley/Desktop/pending/SLC Music Options.md",
 		"/Users/craigeley/Desktop/2015-10-07-Birdlike and Wingless.md",
@@ -155,14 +100,6 @@
 		"/Users/craigeley/Dropbox/Apps/Day One/README.md",
 		"/Users/craigeley/Desktop/wedding language.md",
 		"/Users/craigeley/Dropbox/Apps/Day One/.gitignore",
-		"/Users/craigeley/Desktop/wedding/_includes/travel.html",
-		"/Users/craigeley/Desktop/wedding/_includes/gallery.html",
-		"/Users/craigeley/Desktop/wedding/_includes/wedding.html",
-		"/Users/craigeley/Desktop/wedding/_includes/about.html",
-		"/Users/craigeley/Desktop/wedding/_includes/timeline.html",
-		"/Users/craigeley/Desktop/wedding/_includes/js.html",
-		"/Users/craigeley/Desktop/wedding/_includes/header.html",
-		"/Users/craigeley/Desktop/wedding/_includes/head.html",
 		"/Users/craigeley/Desktop/wedding/.gitignore",
 		"/Users/craigeley/Downloads/fieldnoi@fieldnoise.com.duck",
 		"/Users/craigeley/Dropbox/Pending/wedding/_includes/travel.html",
@@ -211,7 +148,7 @@
 	],
 	"find":
 	{
-		"height": 30.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -226,6 +163,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"eng",
+			"<p>",
+			"p class=\"text-muted\"",
+			"url",
+			"background-image",
+			"back",
 			"issue",
 			"web",
 			"development",
@@ -240,6 +183,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"gal",
+			"<p class=\"text-muted\">",
+			"p"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -250,290 +196,24 @@
 	"groups":
 	[
 		{
-			"selected": 9,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "wedding language.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1430,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								695,
-								695
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "critic",
-							"syntax": "Packages/Critic Markup/Critic.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 18.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_includes/about.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2083,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_includes/footer.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1049,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_includes/gallery.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1436,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_includes/head.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "_includes/header.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2379,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "_includes/js.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 980,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "_includes/timeline.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 538,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
 					"file": "_includes/travel.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 344,
+						"buffer_size": 2189,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "_includes/wedding.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2225,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								1305,
+								1305
 							]
 						],
 						"settings":
@@ -597,7 +277,7 @@
 	"project": "wedding.sublime-project",
 	"replace":
 	{
-		"height": 56.0
+		"height": 70.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -617,7 +297,7 @@
 		[
 			[
 				"",
-				"~/Dropbox/Sublime Projects/book.sublime-project"
+				"~/Dropbox/Sublime Projects/default.sublime-project"
 			]
 		],
 		"width": 380.0
