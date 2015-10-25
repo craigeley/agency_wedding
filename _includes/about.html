@@ -1,0 +1,33 @@
+<!-- The Couple Section -->
+    <section id="couple" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4 col-sm-offset-2">
+                    <div class="team-member">
+                        <img src="img/team/{{ site.people[0].pic }}.png" class="img-responsive img-circle" alt="">
+                        <h4>{{ site.people[0].name }}</h4>
+                        <p class="text-muted">{{ site.people[0].position }}</p>
+                            <ul class="list-inline social-buttons">
+                            {% for network in site.people[0].social %}
+                            <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                            {% endfor %}
+                            </ul>
+                            <p>Liz has loved books for pretty much her entire life, and now she works on writing and editing them. She's an editor at the Wisconsin Historical Society Press and a regular contributor to <a href="http://www.astrangeobject.com/cwf/">Covered w/ Fur</a>.</p>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member">
+                        <img src="img/team/{{ site.people[1].pic }}.png" class="img-responsive img-circle" alt="">
+                        <h4>{{ site.people[1].name }}</h4>
+                        <p class="text-muted">{{ site.people[1].position }}</p>
+                        <ul class="list-inline social-buttons">
+                        {% for network in site.people[1].social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        {% endfor %}
+                        </ul>
+                         <p>Craig's research and work is about sound and technology. He's currently a digital producer at To the Best of Our Knowledge, a weekly radio show, and a coordinator of the UW-Madison <a href="http://humanities.wisc.edu/research/borghesi-mellon-workshops/sound-studies/">Sound Studies research group</a>.</p>
+                    </div>
+                </div>
+            </div>
+        </div>  
+    </section>

@@ -1,0 +1,327 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"work",
+				"workspace_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_includes/travel.html",
+			"settings":
+			{
+				"buffer_size": 2189,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/craigeley/Desktop/wedding/_includes",
+		"/Users/craigeley/Desktop/wedding/_includes/css"
+	],
+	"file_history":
+	[
+		"/Users/craigeley/Desktop/wedding/_includes/gallery.html",
+		"/Users/craigeley/Desktop/wedding/_includes/header.html",
+		"/Users/craigeley/Desktop/wedding/_includes/travel.html",
+		"/Users/craigeley/Desktop/wedding/_includes/timeline.html",
+		"/Users/craigeley/Desktop/wedding/_includes/js.html",
+		"/Users/craigeley/Desktop/wedding/_includes/about.html",
+		"/Users/craigeley/Desktop/wedding/_includes/css/agency.css",
+		"/Users/craigeley/Desktop/wedding/wedding language.md",
+		"/Users/craigeley/Desktop/wedding/couple_copy.md",
+		"/Users/craigeley/Desktop/wedding/_includes/footer.html",
+		"/Users/craigeley/Desktop/wedding/_includes/wedding.html",
+		"/Users/craigeley/Downloads/snazzy-maps-example-pale-dawn-style.html",
+		"/Users/craigeley/Desktop/wedding/_includes/head.html",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/User/Critic.sublime-settings",
+		"/Users/craigeley/Dropbox/Apps/Day One/sync_github_issues.rb",
+		"/Users/craigeley/Dropbox/Apps/Day One/initial_sync.rb",
+		"/Users/craigeley/Desktop/test.rb",
+		"/Users/craigeley/Desktop/test2.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/Todoing.rb",
+		"/Users/craigeley/Dropbox/Apps/Day One/custom_reporter.rb",
+		"/Users/craigeley/Dropbox/Apps/Day One/github_reminders_webhook.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/Reminding.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/habits.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/todoing_update.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/toggl.rb",
+		"/Users/craigeley/Documents/CustomSettings/everwatch.rb",
+		"/Users/craigeley/Desktop/ttbook/Zubrin Article.md",
+		"/Users/craigeley/Desktop/ttbook/Quart.md",
+		"/Users/craigeley/Desktop/pending/Week 3.md",
+		"/Users/craigeley/Desktop/pending/SLC Music Options.md",
+		"/Users/craigeley/Desktop/2015-10-07-Birdlike and Wingless.md",
+		"/Users/craigeley/Dropbox/Writing/Jekyll workflows.md",
+		"/Users/craigeley/Desktop/UW Comm Arts Colloq Presentation 2015 copy.md",
+		"/Users/craigeley/Dropbox/The Database/Writing/MAASA 2011 Presentation - Sonic Boom.txt",
+		"/Users/craigeley/Desktop/Northwestern Cover Letter.md",
+		"/Users/craigeley/Desktop/Notes for PRI email.md",
+		"/Users/craigeley/Desktop/Teaching Notes for Jeremy.md",
+		"/Users/craigeley/Desktop/TTBOOK - Voice Show Rundown Ideas.md",
+		"/Users/craigeley/Desktop/CHE Place Based Workshop Sound Ideas.md",
+		"/Users/craigeley/Desktop/presentation.md",
+		"/Users/craigeley/Dropbox/Apps/Day One/README.md",
+		"/Users/craigeley/Desktop/wedding language.md",
+		"/Users/craigeley/Dropbox/Apps/Day One/.gitignore",
+		"/Users/craigeley/Desktop/wedding/.gitignore",
+		"/Users/craigeley/Downloads/fieldnoi@fieldnoise.com.duck",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/travel.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/wedding.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/timeline.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/gallery.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/js.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/header.html",
+		"/Users/craigeley/Dropbox/Pending/wedding/_includes/head.html",
+		"/Users/craigeley/Dropbox/Apps/Reporter-App/2015-10-17-reporter-export.json",
+		"/Users/craigeley/Dropbox/Logging/Scripts/reporter_app_to_data.rb",
+		"/Users/craigeley/Dropbox/Apps/Reporter-App/2015-10-16-reporter-export.json",
+		"/Users/craigeley/Dropbox/Logging/Scripts/moves_places.rb",
+		"/Users/craigeley/Desktop/now.rb",
+		"/Users/craigeley/Dropbox/Logging/Scripts/logs_to_narrative.rb",
+		"/Users/craigeley/Library/Containers/com.happenapps.Quiver/Data/Library/Application Support/Quiver/Quiver.qvlibrary/Tutorial.qvnotebook/03269485-D3E2-49A1-9F3A-5E805E099BCD.qvnote/content.json",
+		"/Users/craigeley/Library/Containers/com.happenapps.Quiver/Data/Library/Application Support/Quiver/Quiver.qvlibrary/Tutorial.qvnotebook/03269485-D3E2-49A1-9F3A-5E805E099BCD.qvnote/meta.json",
+		"/Users/craigeley/Dropbox/The Database/Writing/5.0 - Chapter 5 Original Draft.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/Chapter 4 - Submitted.txt",
+		"/Users/craigeley/Desktop/UW Comm Colloq 2015/UW Comm Arts Colloq Presentation 2015.md",
+		"/Users/craigeley/Dropbox/The Database/Writing/ASA 2014 Paper.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/Chapter 5 - Submitted.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/IAH Talk.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/Chapter 6 - Submitted.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/Academic Bio.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/NMALH 2013 Presentation.txt",
+		"/LogKext Readme.html",
+		"/Users/craigeley/Dropbox/Writing.dayone/entries/299C6094FDFE48F18D0A715A97C45E60.doentry",
+		"/Users/craigeley/Dropbox/The Database/Writing/IASPM 2014 Presentation.txt",
+		"/Users/craigeley/Dropbox/The Database/Writing/Current CV.txt",
+		"/Users/craigeley/Desktop/Krause.md",
+		"/Users/craigeley/Dropbox/Apps/Day One/Journal.dayone/entries/13E605781A2645DC997C8DA61E85C2F1.doentry",
+		"/Users/craigeley/Dropbox/Book/Birdlike Acts- Nature Imitation and Preservation, 1890-1930.md",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/craigeley/Desktop/markdownify.txt",
+		"/Users/craigeley/Dropbox/Data/Todoist.txt",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/craigeley/Dropbox/Book/Making Them Talk- Animals, Humans, Music, and Museums.md",
+		"/Users/craigeley/Dropbox/Book/A Resonant Boom- Supersonic Flight and Environmental Activism.md",
+		"/Users/craigeley/Dropbox/Book/Big Assertions.txt",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/craigeley/Dropbox/Book/Book.sublime-workspace",
+		"/Users/craigeley/Dropbox/Book/A Resonant Boom- Supersonic Flight and Environmental Activism.txt",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/Critic Markup/Critic.tmLanguage",
+		"/Users/craigeley/Library/Application Support/Sublime Text 3/Packages/Critic Markup/Critic.tmTheme"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eng",
+			"<p>",
+			"p class=\"text-muted\"",
+			"url",
+			"background-image",
+			"back",
+			"issue",
+			"web",
+			"development",
+			"demons",
+			"psycho",
+			"high",
+			"citation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"gal",
+			"<p class=\"text-muted\">",
+			"p"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_includes/travel.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1305,
+								1305
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "wedding.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/Sublime Projects/default.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

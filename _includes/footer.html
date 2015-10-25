@@ -1,0 +1,23 @@
+  <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <span class="copyright">Built by Liz + Craig in 2015</span>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline social-buttons">
+                        {% for network in site.social %}
+                        <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <ul class="list-inline quicklinks">
+                        <li>Running on the <a href="http://jekyllrb.com/">Jekyll</a> <a href="https://github.com/y7kim/agency-jekyll-theme">Agency Theme</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
