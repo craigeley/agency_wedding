@@ -454,6 +454,19 @@ section#wedding {
     background-image: url(/img/falls_full_res.jpg);
 }
 
+@media(max-width:768px) {
+    section#wedding {
+        background-image: none;
+    }
+}
+
 section#travel {
     background-image: url(/img/glen_iris_inn.jpg);
+}
+
+@media(max-width:768px) {
+    section#travel {
+        background-image: none;
+        background-color: #333333;
+    }
 }
