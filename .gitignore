@@ -1,2 +1,5 @@
 _glynn.yml
 _site
+copy
+*.sublime_project
+*.sublime_workspace
