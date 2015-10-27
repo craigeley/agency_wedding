@@ -9,7 +9,7 @@ These pictures are in `img/team`, and the social media accounts and links are se
 
 ### The Weekend
 
-The icons for this section can be anything from the [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) collection.[^1510262317]
+The icons for this section can be anything from the [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/) collection. *Note: background images for each section can be set in the `agency.css` file.*
 
 ### Timeline
 
@@ -22,6 +22,3 @@ These images are in `img/gallery`. This gallery is a [Clearing Lightbox](http://
 # Demo
 
 View this site in action [here](http://lizpluscraig.com/)
-
-
-[^1510262317]: Note: background images for each section can be set in the `agency.css` file.
