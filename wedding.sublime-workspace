@@ -11,14 +11,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_includes/travel.html",
-			"settings":
-			{
-				"buffer_size": 2189,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -57,16 +49,16 @@
 	],
 	"file_history":
 	[
+		"/Users/craigeley/Desktop/wedding/_includes/travel.html",
+		"/Users/craigeley/Desktop/wedding/_includes/footer.html",
 		"/Users/craigeley/Desktop/wedding/_includes/gallery.html",
 		"/Users/craigeley/Desktop/wedding/_includes/header.html",
-		"/Users/craigeley/Desktop/wedding/_includes/travel.html",
 		"/Users/craigeley/Desktop/wedding/_includes/timeline.html",
 		"/Users/craigeley/Desktop/wedding/_includes/js.html",
 		"/Users/craigeley/Desktop/wedding/_includes/about.html",
 		"/Users/craigeley/Desktop/wedding/_includes/css/agency.css",
 		"/Users/craigeley/Desktop/wedding/wedding language.md",
 		"/Users/craigeley/Desktop/wedding/couple_copy.md",
-		"/Users/craigeley/Desktop/wedding/_includes/footer.html",
 		"/Users/craigeley/Desktop/wedding/_includes/wedding.html",
 		"/Users/craigeley/Downloads/snazzy-maps-example-pale-dawn-style.html",
 		"/Users/craigeley/Desktop/wedding/_includes/head.html",
@@ -196,41 +188,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_includes/travel.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1305,
-								1305
-							]
-						],
-						"settings":
-						{
-							"WordCountShouldRun": true,
-							"WordCountSyntax": "html",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

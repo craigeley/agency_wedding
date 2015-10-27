@@ -19,8 +19,8 @@ people:
   social:
     - title: twitter
       url: http://twitter.com/elizwyckoff
-    - title: facebook
-      url: https://www.facebook.com/liz.wyckoff
+    - title: instagram
+      url: https://www.instagram.com/elizwyckoff
     - title: envelope
       url: mailto:elizabeth.wyckoff@gmail.com?subject=Wedding
 
@@ -43,7 +43,7 @@ social:
   - title: instagram
     url: https://instagram.com/explore/tags/lizpluscraig/
   - title: github
-    url: https://github.com/craigeley/wedding/
+    url: https://github.com/craigeley/agency_wedding/tree/gh-pages
     
 # Postal address (add as many lines as necessary)
 address:
